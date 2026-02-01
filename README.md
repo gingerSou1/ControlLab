@@ -9,7 +9,14 @@ as a **security testing lab** supporting fault injection, protocol fuzzing,
 and CTF-style challenges.
 
 ---
+## Documentation
 
+- [`docs/system_overview.md`](docs/system_overview.md)
+- [`docs/architecture.md`](docs/architecture.md)
+- [`docs/ui_flow.md`](docs/ui_flow.md)
+- [`docs/can_protocol.md`](docs/can_protocol.md)
+- [`docs/threat_model.md`](docs/threat_model.md)
+---
 ## Architecture
 
 - **Control Head**
